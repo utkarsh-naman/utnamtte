@@ -4,4 +4,6 @@ Also it can convert such mathematical expressions into **_Python_** and **_Java_
 
 This application was built using **Python** and **kivymd 0.104.2**.
 
-You can download the apk file from [here](https://drive.google.com/drive/folders/13NEsclz1rMhXaleFpfHcjPhmgV5ac7Gf)
+🔗 Download the apk file from [here](https://drive.google.com/drive/folders/13NEsclz1rMhXaleFpfHcjPhmgV5ac7Gf)
+
+▶️  [App tutorial here](https://youtu.be/_vezBiyNTOA)
