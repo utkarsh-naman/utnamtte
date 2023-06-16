@@ -1,4 +1,4 @@
-# TTE (Text To Expression)
+# utnamTTE (Text To Expression)
 
 This is a convertor that takes normal mathematical text expressions as String inputs (eg. "2+ln2√π) and return the expression as it would be written in python (2+(math.log(2))*(math.sqrt(math.pi))
 
